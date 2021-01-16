@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GuncelKonularBeta</string>
+    <string name="content_description">logo</string>
+    <string name="login_id">Kullanıcı Adı</string>
+    <string name="login_password">Şifre</string>
+    <string name="login">Giriş</string>
+    <string name="login_student">Öğrenci Girişi</string>
+    <string name="login_teacher">Öğretmen Girişi</string>
+    <string name="join_poll">Yoklamaya Katıl</string>
+    <string name="log_out">Çıkış Yap</string>
+    <string name="select_class_code">Ders Kodu:</string>
+    <string name="begin_poll">Yoklama Başlat</string>
+    <string name="end_poll">Yoklama Bitir</string>
+</resources>
